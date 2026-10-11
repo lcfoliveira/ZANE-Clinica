@@ -1,0 +1,8 @@
+{
+  "name": "Remix Zani Fisioterapia \u0026 Pilates - Check-in \u0026 Agendamento",
+  "description": "Sistema integrado de check-in de pacientes, agendamento de consultas com fisioterapeuta determinado e gestão de presença clínica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

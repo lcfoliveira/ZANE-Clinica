@@ -1,0 +1,17 @@
+{
+  "name": "Zani Fisioterapia & Pilates - Check-in & Agendamento",
+  "short_name": "Zani Pilates",
+  "description": "Sistema integrado de check-in de pacientes, agendamento de consultas com fisioterapeuta determinado e gestão de presença clínica.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "128x128 192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
